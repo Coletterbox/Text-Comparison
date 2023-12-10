@@ -1,10 +1,5 @@
 # Text Comparison
 
-I think we all had our suspicions about these two pieces of work.
-
-
-https://www.nature.com/articles/s41398-022-01981-3
-
-https://myimmortalrehost.webs.com/chapters122.htm
-
 [Here's](https://github.com/Coletterbox/Text-Comparison/blob/main/Text%20Comparison.ipynb) the analysis.
+
+If you're the owner of the paper used in this, and you're somehow seeing it now: this was a joke, and I already sent it to you. It was the thing you claimed not to be able to read. Of course it seems weird NOW.
